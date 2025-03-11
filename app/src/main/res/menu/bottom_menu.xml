@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_welcome"
+        android:icon="@drawable/welcomeback"
+        android:title="Welcome" />
+
+    <item
+        android:id="@+id/nav_rewards"
+        android:icon="@drawable/reward"
+        android:title="Rewards" />
+
+    <item
+        android:id="@+id/nav_qr"
+        android:icon="@drawable/scan"
+        android:title="QR Scan" />
+
+    <item
+        android:id="@+id/nav_games"
+        android:icon="@drawable/game"
+        android:title="Games" />
+
+    <item
+        android:id="@+id/nav_voice"
+        android:icon="@drawable/voice"
+        android:title="Voice" />
+
+</menu>

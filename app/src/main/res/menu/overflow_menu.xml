@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_capacity"
+        android:title="Capacity"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_location"
+        android:title="Location"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_environmental_data"
+        android:title="Environmental Data"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_alerts_notifications"
+        android:title="Alerts and Notifications"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_type_of_bin"
+        android:title="Type of Bin"
+        app:showAsAction="never" />
+
+    <!-- خيار "Tips" -->
+    <item
+        android:id="@+id/menu_tips"
+        android:title="Tips"
+        app:showAsAction="never" />
+
+    <!-- 🔴 إضافة خيار "Logout" -->
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+</menu>
